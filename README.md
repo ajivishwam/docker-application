@@ -1,6 +1,6 @@
 # Project Setup with Docker and Docker-compose
 
-This project is set up using Docker and Docker-compose. Docker manages the application with `Mongo DB` and `PostgreSQL` databases, along with `JupyterLab`.
+This project is set up using Docker and Docker-compose. Docker manages the application with `Mongo DB` and `PostgreSQL` databases, along with `Python`.
 
 ## Prerequisites
 - Docker needs to be installed on the machine.
