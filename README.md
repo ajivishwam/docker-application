@@ -6,19 +6,14 @@ This project is set up using Docker and Docker-compose. Docker manages the appli
 - Docker needs to be installed on the machine.
 - Python should be installed.
 
-## Contributors Here are some of the contributors to this project: 
-1. [Aji Vishwambharan](https://github.com/ajivishnci)
-2. [Aniket Ghadge](https://github.com/AniketLL)
-3. [Ian Dias](https://github.com/Ian3000Dias)
-
 # Steps to Run the Project
 
-1. git clone this repo [DAP2023-project](https://github.com/ajivishnci/DAP2023-project.git) from github
+1. git clone this repo [docker-application](https://github.com/ajivishwam/docker-application.git) from github
 
 2. Navigate to the project folder location and open a Windows command prompt.
 
     ```bash
-    cd path/to/project/DAP2023-project
+    cd path/to/project/docker-application
     ```
 
 3. Execute the `docker` script.
